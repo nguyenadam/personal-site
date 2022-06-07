@@ -14,3 +14,7 @@ h1, h2, h3, h4, h5, h6  {
 .footer {
   padding-bottom: 2rem;
 }
+
+.header {
+  text-align: center;
+}
