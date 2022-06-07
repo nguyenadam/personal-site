@@ -1,0 +1,16 @@
+html, body {
+  height: 100%;
+  width: 100%;
+}
+
+h1, h2, h3, h4, h5, h6  {
+/*   --font-family: 'Merriweather', serif;
+  --font-weight: 400; */
+  margin-bottom: 0.5rem;
+}
+.heading {
+  padding-top: 2rem;
+}
+.footer {
+  padding-bottom: 2rem;
+}
