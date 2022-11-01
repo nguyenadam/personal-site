@@ -352,7 +352,8 @@ blockquote,
 dl,
 figure,
 table,
-p,
+p { 
+  margin: 0.5rem; }
 ul,
 ol,
 form {
